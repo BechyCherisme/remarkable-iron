@@ -112,7 +112,7 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "facebook",
+                        "label": "Facebook",
                         "url": "www.facebook.com",
                         "style": "link",
                         "has_icon": true,
