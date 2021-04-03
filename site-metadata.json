@@ -22,7 +22,7 @@
             },
             {
                 "type": "action",
-                "label": "Pricing",
+                "label": "What We Offer",
                 "url": "/pricing",
                 "style": "link"
             },
