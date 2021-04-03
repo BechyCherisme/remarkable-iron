@@ -157,7 +157,8 @@
                 "url": "/privacy-policy",
                 "style": "link"
             }
-        ]
+        ],
+        "content": "X"
     },
     "domain": "https://remarkable-iron-8d267.netlify.app"
 }
