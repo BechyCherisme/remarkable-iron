@@ -36,7 +36,7 @@ sections:
             url: /features
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: arrow-left
             icon_position: right
       - type: feature_item
         title: Awesome Feature of Your Services
