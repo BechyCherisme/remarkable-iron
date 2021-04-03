@@ -36,7 +36,7 @@ sections:
             url: /features
             style: primary
             has_icon: true
-            icon: envelope
+            icon: github
             icon_position: right
       - type: feature_item
         title: Awesome Feature of Your Services
