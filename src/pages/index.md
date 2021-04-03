@@ -37,7 +37,7 @@ sections:
             style: primary
             has_icon: true
             icon: arrow-right
-            icon_position: left
+            icon_position: right
       - type: feature_item
         title: Awesome Feature of Your Services
         content: >-
