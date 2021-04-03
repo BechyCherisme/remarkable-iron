@@ -28,7 +28,7 @@ sections:
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: /images/vector-creator (4).png
+        image: /images/adorable-neptune.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
