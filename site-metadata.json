@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "header": {
         "type": "header",
-        "logo_img": "/images/logo-alt.svg",
+        "logo_img": "/images/Xomu Financial.svg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
